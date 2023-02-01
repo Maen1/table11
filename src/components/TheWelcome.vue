@@ -1,12 +1,7 @@
 <script setup>
-    import WelcomeItem from "./WelcomeItem.vue";
+    import Header from "./Header.vue";
 </script>
 
 <template>
-    <WelcomeItem>
-        <template #heading>Documentation</template>
-        <p class="text-3xl font-bold underline">
-             provides you with all information you need to get started.
-        </p>
-    </WelcomeItem>
+    <Header> </Header>
 </template>
