@@ -36,21 +36,21 @@ import { RouterLink, RouterView } from "vue-router";
         <div class="carousel-inner relative w-full overflow-hidden">
             <div class="carousel-item active float-left w-full">
             <img
-                src="https://mdbcdn.b-cdn.net/img/new/slides/041.webp"
+                src="../assets/img/shisha4.jpg"
                 class="block w-full"
                 alt="Wild Landscape"
             />
             </div>
             <div class="carousel-item float-left w-full">
             <img
-                src="https://mdbcdn.b-cdn.net/img/new/slides/042.webp"
+                src="../assets/img/shisha_gaze.jpg"
                 class="block w-full"
                 alt="Camera"
             />
             </div>
             <div class="carousel-item float-left w-full">
             <img
-                src="https://mdbcdn.b-cdn.net/img/new/slides/043.webp"
+                src="../assets/img/shisha_cake_smile.jpg"
                 class="block w-full"
                 alt="Exotic Fruits"
             />
