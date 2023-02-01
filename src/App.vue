@@ -43,14 +43,13 @@ import HelloWorld from "./components/HelloWorld.vue";
                      <RouterLink to="/">Home</RouterLink>
                     </li>
                     <li class="nav-item p-2">
-                     <RouterLink to="/about">About</RouterLink>
+                     <RouterLink to="/gallery">Gallery</RouterLink>
                     </li>
                     <li class="nav-item p-2">
-                    <a
-                        class="nav-link text-white opacity-60 hover:opacity-80 focus:opacity-80 p-0"
-                        href="#"
-                        >Projects</a
-                    >
+                     <RouterLink to="/menu">Menu</RouterLink>
+                    </li>
+                    <li class="nav-item p-2">
+                     <RouterLink to="/booking">Booking</RouterLink>
                     </li>
                 </ul>
                 <!-- Left links -->
