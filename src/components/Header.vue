@@ -1,7 +1,3 @@
-<script setup>
-import { RouterLink, RouterView } from "vue-router";
-</script>
-
 
 <template>
 <div>
@@ -37,21 +33,21 @@ import { RouterLink, RouterView } from "vue-router";
             <div class="carousel-item active float-left w-full">
             <img
                 src="../assets/img/shisha4.jpg"
-                class="block w-full"
+                class="block object-contain  w-full max-h-[40rem]"
                 alt="Wild Landscape"
             />
             </div>
             <div class="carousel-item float-left w-full">
             <img
                 src="../assets/img/shisha_gaze.jpg"
-                class="block w-full"
+                class="block object-contain  w-full max-h-[40rem]"
                 alt="Camera"
             />
             </div>
             <div class="carousel-item float-left w-full">
             <img
                 src="../assets/img/shisha_cake_smile.jpg"
-                class="block w-full"
+                class="block object-contain  w-full max-h-[40rem]"
                 alt="Exotic Fruits"
             />
             </div>
