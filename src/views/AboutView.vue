@@ -1,15 +1,16 @@
 <template>
-    <div class="about">
-        <h1>This is an about page</h1>
+   <div class="main-container">
+      <div class="sub-container">
+        <div class="sky">
+          <div class="stars"></div>
+          <div class="stars2"></div>
+          <div class="stars3"></div>
+          <div class="comet"></div>
+        </div>
+      </div>
     </div>
 </template>
 
-<style>
-@media (min-width: 1024px) {
-    .about {
-        min-height: 100vh;
-        display: flex;
-        align-items: center;
-    }
-}
+<style lang="scss">
+    
 </style>

@@ -1,10 +1,10 @@
 
 <template>
-<div>
+<div class="z-0">
     <header>
     <div
         id="carouselExampleCrossfade"
-        class="carousel slide carousel-fade relative"
+        class="carousel slide carousel-fade relative md:mt-10 "
         data-bs-ride="carousel"
         >
         <div class="carousel-indicators absolute right-0 bottom-0 left-0 flex justify-center p-0 mb-4">
@@ -33,26 +33,26 @@
             <div class="carousel-item active float-left w-full">
             <img
                 src="../assets/img/shisha4.jpg"
-                class="block object-contain  w-full max-h-[40rem]"
-                alt="Wild Landscape"
+                class="md:rounded-lg block object-contain mx-auto  max-h-[40rem]"
+                alt="shisha"
             />
             </div>
             <div class="carousel-item float-left w-full">
             <img
                 src="../assets/img/shisha_gaze.jpg"
-                class="block object-contain  w-full max-h-[40rem]"
+                class="md:rounded-lg block object-contain mx-auto  max-h-[40rem]"
                 alt="Camera"
             />
             </div>
             <div class="carousel-item float-left w-full">
             <img
                 src="../assets/img/shisha_cake_smile.jpg"
-                class="block object-contain  w-full max-h-[40rem]"
+                class="md:rounded-lg block object-contain mx-auto  max-h-[40rem]"
                 alt="Exotic Fruits"
             />
             </div>
         </div>
-        <button
+        <!-- <button
             class="carousel-control-prev absolute top-0 bottom-0 flex items-center justify-center p-0 text-center border-0 hover:outline-none hover:no-underline focus:outline-none focus:no-underline left-0"
             type="button"
             data-bs-target="#carouselExampleCrossfade"
@@ -69,13 +69,12 @@
         >
             <span class="carousel-control-next-icon inline-block bg-no-repeat" aria-hidden="true"></span>
             <span class="visually-hidden">Next</span>
-        </button>
+        </button> -->
         </div>
     </header>
-
 </div>
 </template>
 
-<style scoped>
+<style lang="scss">
 
 </style>
