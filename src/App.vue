@@ -8,6 +8,8 @@ import Nav from "./components/Nav.vue";
            <Nav></Nav>  
             <div class="stars"></div>
             <div class="stars2"></div>
+            <div class="stars4"></div>
+
         </div>
     <RouterView />
 </template>
@@ -48,10 +50,10 @@ import Nav from "./components/Nav.vue";
 
 //fuction
 @function create-stars($n) {
-  $stars: "#{random($starFieldWidth)}px #{random($starFieldHeight)}px #FFF";
+  $stars: "#{random($starFieldWidth)}px #{random($starFieldHeight)}px #FDF6B2";
 
   @for $i from 2 through $n {
-    $stars: "#{$stars} , #{random($starFieldWidth)}px #{random($starFieldHeight)}px #FFF";
+    $stars: "#{$stars} , #{random($starFieldWidth)}px #{random($starFieldHeight)}px #FDF6B2";
   }
   @return unquote($stars);
 }

@@ -4,10 +4,10 @@
     <header>
     <div
         id="carouselExampleCrossfade"
-        class="carousel slide carousel-fade relative md:mt-10 "
+        class="carousel slide carousel-fade relative"
         data-bs-ride="carousel"
         >
-        <div class="carousel-indicators absolute right-0 bottom-0 left-0 flex justify-center p-0 mb-4">
+        <div class="carousel-indicators absolute right-0 bottom-0 left-0 flex justify-center p-0">
             <button
             type="button"
             data-bs-target="#carouselExampleCrossfade"
@@ -33,21 +33,21 @@
             <div class="carousel-item active float-left w-full">
             <img
                 src="../assets/img/shisha4.jpg"
-                class="md:rounded-lg block object-contain mx-auto  max-h-[40rem]"
+                class="md:rounded-lg block object-contain mx-auto  max-h-[45rem] backdrop-blur-lg shadow-yellow-100"
                 alt="shisha"
             />
             </div>
             <div class="carousel-item float-left w-full">
             <img
                 src="../assets/img/shisha_gaze.jpg"
-                class="md:rounded-lg block object-contain mx-auto  max-h-[40rem]"
+                class="md:rounded-lg block object-contain mx-auto  max-h-[45rem]"
                 alt="Camera"
             />
             </div>
             <div class="carousel-item float-left w-full">
             <img
                 src="../assets/img/shisha_cake_smile.jpg"
-                class="md:rounded-lg block object-contain mx-auto  max-h-[40rem]"
+                class="md:rounded-lg block object-contain mx-auto  max-h-[45rem]"
                 alt="Exotic Fruits"
             />
             </div>
