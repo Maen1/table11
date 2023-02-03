@@ -1,17 +1,20 @@
 <script setup>
 import { RouterLink, RouterView } from "vue-router";
 import Nav from "./components/Nav.vue";
+import Footer from "./components/Footer.vue";
 </script>
 
 <template>
-        <div class="wrapper">
-           <Nav></Nav>  
-            <div class="stars"></div>
-            <div class="stars2"></div>
-            <div class="stars4"></div>
 
+        <Nav></Nav>  
+        <div class="wrapper">
         </div>
     <RouterView />
+    <Footer></Footer>
+
+    <div class="stars"></div>
+    <div class="stars2"></div>
+    <div class="stars4"></div>
 </template>
 
 <style lang="scss">
