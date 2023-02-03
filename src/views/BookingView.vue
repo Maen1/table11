@@ -1,5 +1,6 @@
 <template>
     <div class="booking md:mb-[50vh]">
+        <h1 class=" text-3xl font-semibold tracking-tight text-center my-8 text-yellow-100">Easy booking with just one click click</h1>
 
         <div class="m-2 md:m-6 flex flex-wrap md:flex-nowrap  justify-between ">
             <div class="w-full md:w-1/3 m-2 p-6 bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
