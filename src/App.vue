@@ -41,15 +41,15 @@ import Footer from "./components/Footer.vue";
 
     //main content
     .main-container {
-  display: block;
-  position: relative;
-  width: 1200px;
-  height: 600px;
-  background: linear-gradient(to bottom, #201c2f 0%, #100751 100%);
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-}
+        display: block;
+        position: relative;
+        width: 1200px;
+        height: 600px;
+        background: linear-gradient(to bottom, #201c2f 0%, #100751 100%);
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+      }
 
 //fuction
 @function create-stars($n) {

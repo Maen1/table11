@@ -1,6 +1,12 @@
 <template>
-    <div class="booking md:mb-[50vh]">
-        <h1 class=" text-3xl font-semibold tracking-tight text-center my-8 text-yellow-100">Easy booking with just one click click</h1>
+    <div class="booking md:mb-[24vh]">
+        <h1 class="text-3xl font-semibold tracking-tight text-center my-8 text-yellow-100">Easy booking with just one click click</h1>
+
+        <p class="m-4 md:mx-24 text-lg  text-center my-8  text-gray-100">
+            Table 11 provides an elegant and visual stunning environment and introduces an array of Shisha flavours teamed up with our own uniquely designed smoking pipes to deliver an unforgettable smoke.
+            <br>
+            We understand and value the dedication to our customers and our aim is to provide a service and experience that will have you coming back for more. 
+        </p>
 
         <div class="m-2 md:m-6 flex flex-wrap md:flex-nowrap  justify-between ">
             <div class="w-full md:w-1/3 m-2 p-6 bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
