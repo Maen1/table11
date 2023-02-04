@@ -6,7 +6,7 @@ import { RouterLink, RouterView } from "vue-router";
 <template>
 <div>
      <nav
-            class="relative rounded-lg m-1 mx-w-full flex flex-wrap items-center justify-between py-3 bg-gray-900 text-gray-200 shadow-lg navbar navbar-expand-lg navbar-light"
+            class="relative rounded-lg m-1 mx-w-full flex flex-wrap items-center justify-between  bg-gray-900 text-gray-200 shadow-lg navbar navbar-expand-lg navbar-light"
             >
              
             <div class="container-fluid w-full flex flex-wrap items-center justify-between px-6">
@@ -37,7 +37,7 @@ import { RouterLink, RouterView } from "vue-router";
                 </button>
                 <div class="collapse navbar-collapse flex-grow items-center" id="navbarSupportedContent1">
                     <RouterLink to="/">
-                        <img class="w-16" src="../assets/img/table11_logo_png.png" alt="table11 logo">
+                        <img class="w-16 m-0" src="../assets/img/table11_logo_png.png" alt="table11 logo">
                     </RouterLink>
                 <!-- Left links -->
                 <ul class="navbar-nav flex flex-col pl-0 list-style-none mr-auto">
