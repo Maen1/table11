@@ -14,13 +14,13 @@ import Footer from "./components/Footer.vue";
 
     <div class="stars"></div>
     <div class="stars2"></div>
-    <div class="stars4"></div>
+    <div class="stars3"></div>
 </template>
 
 <style lang="scss">
     $starFieldWidth: 2560;
     $starFieldHeight: 2560;
-    $starStartOffset: 600px;
+    $starStartOffset: 1000px;
 
     $starOneScrollDuration: 100s;
     $starTwoScrollDuration: 125s;
