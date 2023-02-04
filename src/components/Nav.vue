@@ -36,7 +36,9 @@ import { RouterLink, RouterView } from "vue-router";
                 </svg>
                 </button>
                 <div class="collapse navbar-collapse flex-grow items-center" id="navbarSupportedContent1">
-                <a class="text-xl text-white pr-2 font-semibold" href="#">Navbar</a>
+                    <RouterLink to="/">
+                        <img class="w-16" src="../assets/img/table11_logo_png.png" alt="table11 logo">
+                    </RouterLink>
                 <!-- Left links -->
                 <ul class="navbar-nav flex flex-col pl-0 list-style-none mr-auto">
                     <li class="nav-item p-2">
