@@ -1,7 +1,17 @@
 <template>
-    <div class="menu">
-        <h1>This is an Menu page</h1>
-    </div>
+	<div class="gallery">
+		<section class="overflow-hidden text-gray-700">
+			<div class="container px-5 py-2 mx-auto">
+				<div class="flex flex-wrap -m-1 md:-m-2">
+					<div class="w-full 2 p-1 md:p-2">
+							<img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
+							src="../assets/img/menu.jpg">
+					</div>
+                    
+				</div>
+			</div>
+		</section>
+	</div>
 </template>
 
 <style>

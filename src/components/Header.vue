@@ -1,5 +1,5 @@
 <template>
-    <div class="z-0">
+    <div>
         <header>
             <div
             id="carouselExampleCrossfade"
@@ -7,7 +7,7 @@
             data-bs-ride="carousel"
             data-carousel="dynamic"
             >
-            <div class="carousel-indicators absolute right-0 bottom-0 left-0 flex justify-center p-0">
+            <div class="carousel-indicators absolute right-0 bottom-0 left-0 flex justify-center">
                 <button
                 type="button"
                 data-bs-target="#carouselExampleCrossfade"
