@@ -1,5 +1,5 @@
 <template>
-    <div class="booking m-2 md:m-10">
+    <div class="booking relative m-2 md:m-10">
         <h1 class="text-3xl font-semibold text-center my-8 text-yellow-100">Your welcome to drop by or book a table </h1>
         <div class="flex flex-wrap w-full">
          <div class="w-full md:w-1/3 p-1 md:p-2 items-center">

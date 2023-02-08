@@ -72,7 +72,7 @@
         </button> -->
     </div>
 </header>
-<div class="flex justify-center flex flex-wrap mt-10 md:m-20">
+<div class="relative flex justify-center flex flex-wrap mt-10 md:m-20">
     
     <div class="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 m-5">  
         <a href="#">
