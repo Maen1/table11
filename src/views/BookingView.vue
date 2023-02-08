@@ -1,6 +1,6 @@
 <template>
     <div class="booking relative m-2 md:m-10">
-        <h1 class="text-3xl font-semibold text-center my-8 text-yellow-100">Your welcome to drop by or book a table </h1>
+        <h1 class="text-3xl font-semibold text-center my-8 text-yellow-200">Your welcome to drop by or book a table </h1>
         <div class="flex flex-wrap w-full">
          <div class="w-full md:w-1/3 p-1 md:p-2 items-center">
                 <img alt="shisha" class="object-center md:float-left  max-w-sm rounded-lg"
@@ -26,7 +26,7 @@
                 <path stroke-linecap="round" stroke-linejoin="round" d="M10.5 1.5H8.25A2.25 2.25 0 006 3.75v16.5a2.25 2.25 0 002.25 2.25h7.5A2.25 2.25 0 0018 20.25V3.75a2.25 2.25 0 00-2.25-2.25H13.5m-3 0V3h3V1.5m-3 0h3m-3 18.75h3"></path>
                 </svg>
                 <a href="#">
-                    <h5 class="mb-2 text-2xl font-semibold tracking-tight text-gray-900 dark:text-white">Need a help in Claim?</h5>
+                    <h5 class="mb-2 text-2xl font-semibold tracking-tight text-yellow-200">Need a help in Claim?</h5>
                 </a>
                 <p class="mb-3 font-normal text-gray-500 dark:text-gray-400">Go to this step by step guideline process on how to certify for your weekly benefits:</p>
                 <a href="#" class="inline-flex items-center text-blue-600 hover:underline">
@@ -43,7 +43,7 @@
                
                             
                 <a href="#">
-                    <h5 class="mb-2 text-2xl font-semibold tracking-tight text-gray-900 dark:text-white">Need a help in Claim?</h5>
+                    <h5 class="mb-2 text-2xl font-semibold tracking-tight text-yellow-200">Need a help in Claim?</h5>
                 </a>
                 <p class="mb-3 font-normal text-gray-500 dark:text-gray-400">Go to this step by step guideline process on how to certify for your weekly benefits:</p>
                 <a href="#" class="inline-flex items-center text-blue-600 hover:underline">
@@ -57,7 +57,7 @@
                 <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 10.5c0 7.142-7.5 11.25-7.5 11.25S4.5 17.642 4.5 10.5a7.5 7.5 0 1115 0z"></path>
                 </svg>
                 <a href="#">
-                    <h5 class="mb-2 text-2xl font-semibold tracking-tight text-gray-900 dark:text-white">Need a help in Claim?</h5>
+                    <h5 class="mb-2 text-2xl font-semibold tracking-tight text-yellow-200">Need a help in Claim?</h5>
                 </a>
                 <p class="mb-3 font-normal text-gray-500 dark:text-gray-400">Go to this step by step guideline process on how to certify for your weekly benefits:</p>
                 <a href="#" class="inline-flex items-center text-blue-600 hover:underline">
