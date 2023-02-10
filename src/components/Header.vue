@@ -2,6 +2,7 @@
     <div>
         <header>
             <div
+            data-aos="zoom-in"
             id="carouselExampleCrossfade"
             class="carousel slide carousel-fade relative"
             data-bs-ride="carousel"
