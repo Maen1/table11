@@ -1,26 +1,26 @@
 <template>
     <div class="booking relative m-2 md:m-10">
-        <h1 class="text-3xl font-semibold text-center my-8 text-yellow-200">Your welcome to drop by or book a table </h1>
+        <h1 data-aos="zoom-in" class="text-3xl font-semibold text-center my-8 text-yellow-200">Your welcome to drop by or book a table </h1>
         <div class="flex flex-wrap w-full">
-         <div class="w-full md:w-1/3 p-1 md:p-2 items-center">
+         <div data-aos="fade-up" class="w-full md:w-1/3 p-1 md:p-2 items-center">
                 <img alt="shisha" class="object-center md:float-left  max-w-sm rounded-lg"
                 src="../assets/img/shisha_gaze.jpg">
          </div>
-         <div class="w-full md:w-1/3 p-1 md:p-2">
+         <div data-aos="slide-up"  class="w-full md:w-1/3 p-1 md:p-2">
                 <p class="m-4  text-lg  text-center  my-8  text-gray-100">
                     Table 11 provides an elegant and visual stunning environment and introduces an array of Shisha flavours teamed up with our own uniquely designed smoking pipes to deliver an unforgettable smoke.
                     <br><br>
                     We understand and value the dedication to our customers and our aim is to provide a service and experience that will have you coming back for more. 
                 </p>
             </div>
-            <div class="w-full md:w-1/3 p-1 md:p-2 items-center">
+            <div data-aos="fade-up" class="w-full md:w-1/3 p-1 md:p-2 items-center">
                 <img alt="shisha" class="object-center md:float-right  max-w-sm rounded-lg"
                 src="../assets/img/shisha_cake.jpg">
             </div>
         </div>
 
         <div class=" flex flex-wrap md:flex-nowrap  justify-between ">
-            <div class="w-full md:w-1/3 m-2 p-6 bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
+            <div data-aos="fade-down" class="w-full md:w-1/3 m-2 p-6 bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
                 <div class="flex">
 
                     <svg  class="w-10 h-10 mb-2 text-gray-500 dark:text-yellow-200"  fill="none" stroke="currentColor" stroke-width="1.5" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
@@ -36,7 +36,7 @@
                     <svg class="w-5 h-5 ml-2" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path d="M11 3a1 1 0 100 2h2.586l-6.293 6.293a1 1 0 101.414 1.414L15 6.414V9a1 1 0 102 0V4a1 1 0 00-1-1h-5z"></path><path d="M5 5a2 2 0 00-2 2v8a2 2 0 002 2h8a2 2 0 002-2v-3a1 1 0 10-2 0v3H5V7h3a1 1 0 000-2H5z"></path></svg>
                 </a>
             </div>
-            <div class="w-full md:w-1/3 m-2  p-6 bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
+            <div data-aos="fade-down" class="w-full md:w-1/3 m-2  p-6 bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
                 <div class="flex">
 
                     <svg  class="w-10 h-10 mb-2 text-gray-500 dark:text-yellow-200"  fill="none" stroke="currentColor" stroke-width="1.5" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
@@ -52,7 +52,7 @@
                     <svg class="w-5 h-5 ml-2" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path d="M11 3a1 1 0 100 2h2.586l-6.293 6.293a1 1 0 101.414 1.414L15 6.414V9a1 1 0 102 0V4a1 1 0 00-1-1h-5z"></path><path d="M5 5a2 2 0 00-2 2v8a2 2 0 002 2h8a2 2 0 002-2v-3a1 1 0 10-2 0v3H5V7h3a1 1 0 000-2H5z"></path></svg>
                 </a>
             </div>          
-            <div class="w-full md:w-1/3  p-6 m-2  bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
+            <div data-aos="fade-down" class="w-full md:w-1/3  p-6 m-2  bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
             <div class="flex">
                  <svg class="w-10 h-10 mb-2 text-gray-500 dark:text-yellow-200" fill="none" stroke="currentColor" stroke-width="1.5" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
                 <path stroke-linecap="round" stroke-linejoin="round" d="M15 10.5a3 3 0 11-6 0 3 3 0 016 0z"></path>
