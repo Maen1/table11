@@ -91,7 +91,7 @@
                 </div>
             </div>     
             -->
-            <div class="max-w-lg bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 m-5 ">
+            <div data-aos="fade-right" class="max-w-lg bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 m-5 ">
                 <a href="#">
                     <img class="rounded-t-lg" src="../assets/img/orange_juice.jpg" alt="" />
                 </a>
@@ -107,7 +107,7 @@
                 </div>
             </div>
             
-            <div class="max-w-lg bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 m-5">
+            <div data-aos="fade-left" class="max-w-lg bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 m-5">
                 <a href="#">
                     <img class="rounded-t-lg" src="../assets/img/fest.jpg" alt="" />
                 </a>
