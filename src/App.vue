@@ -43,7 +43,7 @@ import Footer from "./components/Footer.vue";
         position: relative;
         width: 1200px;
         height: 600px;
-        background: linear-gradient(to bottom, #201c2f 0%, #100751 100%);
+        background: linear-gradient(to bottom, #362F78 0%, #100751 100%);
         top: 50%;
         left: 50%;
         transform: translate(-50%, -50%);
