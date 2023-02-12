@@ -4,9 +4,9 @@ import { RouterLink, RouterView } from "vue-router";
 
 
 <template>
-<div class="sticky top-0   z-50">
+<div class="sticky top-0  z-50">
      <nav
-            class="relative rounded-lg m-1 mx-w-full flex flex-wrap items-center justify-between  bg-gray-900 text-gray-200 shadow-lg navbar navbar-expand-lg navbar-light"
+            class="relative mb-2 mx-w-full flex flex-wrap items-center justify-between  bg-gray-900 text-gray-200 shadow-lg navbar navbar-expand-lg navbar-light"
             >
              
             <div class="container-fluid w-full flex flex-wrap items-center justify-between px-6">

@@ -8,71 +8,89 @@
             data-bs-ride="carousel"
             data-carousel="dynamic"
             >
-            <div class="carousel-indicators absolute right-0 bottom-0 left-0 flex justify-center">
-                <button
-                type="button"
-                data-bs-target="#carouselExampleCrossfade"
-                data-bs-slide-to="0"
-                class="active"
-                aria-current="true"
-                aria-label="Slide 1"
-                ></button>
-                <button
-                type="button"
-                data-bs-target="#carouselExampleCrossfade"
-                data-bs-slide-to="1"
-                aria-label="Slide 2"
-                ></button>
-                <button
-                type="button"
-                data-bs-target="#carouselExampleCrossfade"
-                data-bs-slide-to="2"
-                aria-label="Slide 3"
-                ></button>
-            </div>
-            <div class="carousel-inner relative w-full overflow-hidden">
-                <div class="carousel-item active float-left w-full">
-                    <img
-                    src="../assets/img/shisha4.jpg"
-                    class="md:rounded-xl block object-contain mx-auto  max-h-[45rem] backdrop-blur-lg shadow-yellow-100"
-                    alt="shisha"
-                    />
+                <div class="carousel-indicators absolute right-0 bottom-0 left-0 flex justify-center">
+                    <button
+                    type="button"
+                    data-bs-target="#carouselExampleCrossfade"
+                    data-bs-slide-to="0"
+                    class="active"
+                    aria-current="true"
+                    aria-label="Slide 1"
+                    ></button>
+                    <button
+                    type="button"
+                    data-bs-target="#carouselExampleCrossfade"
+                    data-bs-slide-to="1"
+                    aria-label="Slide 2"
+                    ></button>
+                    <button
+                    type="button"
+                    data-bs-target="#carouselExampleCrossfade"
+                    data-bs-slide-to="2"
+                    aria-label="Slide 3"
+                    ></button>
                 </div>
-                <div class="carousel-item float-left w-full">
-                    <img
-                    src="../assets/img/shisha_gaze.jpg"
-                    class="md:rounded-xl block object-contain mx-auto  max-h-[45rem]"
-                    alt="Camera"
-                    />
+                <div class="carousel-inner relative w-full overflow-hidden">
+                    <div class="carousel-item active float-left w-full">
+                        <img
+                        src="../assets/img/shisha4.jpg"
+                        class="md:rounded-xl block object-contain mx-auto  max-h-[45rem] backdrop-blur-lg shadow-yellow-100"
+                        alt="shisha"
+                        />
+                    </div>
+                    <div class="carousel-item float-left w-full">
+                        <img
+                        src="../assets/img/shisha_gaze.jpg"
+                        class="md:rounded-xl block object-contain mx-auto  max-h-[45rem]"
+                        alt="Camera"
+                        />
+                    </div>
+                    <div class="carousel-item float-left w-full">
+                        <img
+                        src="../assets/img/shisha_cake_smile.jpg"
+                        class="md:rounded-xl block object-contain mx-auto  max-h-[45rem]"
+                        alt="Exotic Fruits"
+                        />
+                    </div>
                 </div>
-                <div class="carousel-item float-left w-full">
-                    <img
-                    src="../assets/img/shisha_cake_smile.jpg"
-                    class="md:rounded-xl block object-contain mx-auto  max-h-[45rem]"
-                    alt="Exotic Fruits"
-                    />
-                </div>
-            </div>
-            <!-- <button
-                class="carousel-control-prev absolute top-0 bottom-0 flex items-center justify-center p-0 text-center border-0 hover:outline-none hover:no-underline focus:outline-none focus:no-underline left-0"
+                <!-- <button
+                    class="carousel-control-prev absolute top-0 bottom-0 flex items-center justify-center p-0 text-center border-0 hover:outline-none hover:no-underline focus:outline-none focus:no-underline left-0"
+                    type="button"
+                    data-bs-target="#carouselExampleCrossfade"
+                    data-bs-slide="prev"
+                    >
+                    <span class="carousel-control-prev-icon inline-block bg-no-repeat" aria-hidden="true"></span>
+                    <span class="visually-hidden">Previous</span>
+                </button>
+                <button
+                class="carousel-control-next absolute top-0 bottom-0 flex items-center justify-center p-0 text-center border-0 hover:outline-none hover:no-underline focus:outline-none focus:no-underline right-0"
                 type="button"
                 data-bs-target="#carouselExampleCrossfade"
-                data-bs-slide="prev"
+                data-bs-slide="next"
                 >
-                <span class="carousel-control-prev-icon inline-block bg-no-repeat" aria-hidden="true"></span>
-                <span class="visually-hidden">Previous</span>
-            </button>
-            <button
-            class="carousel-control-next absolute top-0 bottom-0 flex items-center justify-center p-0 text-center border-0 hover:outline-none hover:no-underline focus:outline-none focus:no-underline right-0"
-            type="button"
-            data-bs-target="#carouselExampleCrossfade"
-            data-bs-slide="next"
-            >
-            <span class="carousel-control-next-icon inline-block bg-no-repeat" aria-hidden="true"></span>
-            <span class="visually-hidden">Next</span>
-        </button> -->
-    </div>
-</header>
+                <span class="carousel-control-next-icon inline-block bg-no-repeat" aria-hidden="true"></span>
+                <span class="visually-hidden">Next</span>
+            </button> -->
+        </div>
+        </header>
+
+    
+    <section class="relative bg-gray-900 mt-4">
+        <div class="grid max-w-screen-xl px-4 py-8 mx-auto lg:gap-8 xl:gap-0 lg:py-16 lg:grid-cols-12">
+            <div class="mr-auto place-self-center lg:col-span-7">
+                <h1 class="max-w-2xl mb-4 text-4xl font-extrabold tracking-tight leading-none md:text-5xl dark:text-white">Best Shisha ever </h1>
+                <p class="max-w-2xl mb-6 font-light text-gray-500 lg:mb-8 md:text-lg lg:text-xl dark:text-gray-400">Some bullshit to write here ....</p>
+    
+                <a href="#" class="inline-flex items-center justify-center px-5 py-3 text-base font-medium text-center text-gray-900 border border-gray-300 rounded-lg hover:bg-gray-100 focus:ring-4 focus:ring-gray-100 dark:text-white dark:border-gray-700 dark:hover:bg-gray-700 dark:focus:ring-gray-800">
+                    Reserve your table 
+                </a> 
+            </div>
+            <div class="mt-5 lg:mt-0 lg:col-span-5 lg:flex">
+                <img src="../assets/img/shisha_web.png" alt="shishas">
+            </div>                
+        </div>
+    </section>
+    
     <div class="mt-10">
         <div class="relative flex justify-center flex flex-wrap mt-10  md:m-10">
             
@@ -126,9 +144,10 @@
         </div>
     </div>
 
+
     <!-- clients -->
             
-    <div class="relative mt-10 m-5 md:mx-56 grid   rounded-xl shadow-sm dark:border-gray-700 md:mb-12 md:grid-cols-2">
+    <div class="relative grid  rounded-xl shadow-sm dark:border-gray-700 md:mb-12 md:grid-cols-2">
             <figure class="flex flex-col items-center justify-center p-8 text-center bg-white border-b border-yellow-200 rounded-t-lg md:rounded-t-none md:rounded-tl-lg md:border-r dark:bg-gray-900 dark:border-gray-700">
                 <blockquote class="max-w-2xl mx-auto mb-4 text-gray-500 lg:mb-8 dark:text-gray-400">
                     <h3 class="text-lg font-semibold text-gray-900 dark:text-white">Very easy this was to integrate</h3>

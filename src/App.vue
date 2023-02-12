@@ -5,14 +5,16 @@ import Footer from "./components/Footer.vue";
 </script>
 
 <template>
-        <div class="stars2"></div>
+
+        <Nav></Nav>  
+         <div class="stars2"></div>
         <div class="stars"></div>
         <div class="stars3"></div>
-        <Nav></Nav>  
         <div class="wrapper">
         </div>
     <RouterView />
     <Footer></Footer>
+    
 </template>
 
 <style lang="scss">
