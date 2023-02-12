@@ -34,21 +34,21 @@
                 <div class="carousel-item active float-left w-full">
                     <img
                     src="../assets/img/shisha4.jpg"
-                    class="md:rounded-lg block object-contain mx-auto  max-h-[45rem] backdrop-blur-lg shadow-yellow-100"
+                    class="md:rounded-xl block object-contain mx-auto  max-h-[45rem] backdrop-blur-lg shadow-yellow-100"
                     alt="shisha"
                     />
                 </div>
                 <div class="carousel-item float-left w-full">
                     <img
                     src="../assets/img/shisha_gaze.jpg"
-                    class="md:rounded-lg block object-contain mx-auto  max-h-[45rem]"
+                    class="md:rounded-xl block object-contain mx-auto  max-h-[45rem]"
                     alt="Camera"
                     />
                 </div>
                 <div class="carousel-item float-left w-full">
                     <img
                     src="../assets/img/shisha_cake_smile.jpg"
-                    class="md:rounded-lg block object-contain mx-auto  max-h-[45rem]"
+                    class="md:rounded-xl block object-contain mx-auto  max-h-[45rem]"
                     alt="Exotic Fruits"
                     />
                 </div>
@@ -76,7 +76,7 @@
     <div class="mt-10">
         <div class="relative flex justify-center flex flex-wrap mt-10  md:m-10">
             
-            <!-- <div class="max-w-sm bg-white  rounded-lg shadow dark:bg-gray-900 dark:border-gray-700 m-5">  
+            <!-- <div class="max-w-sm bg-white  rounded-xl shadow dark:bg-gray-900 dark:border-gray-700 m-5">  
                 <a href="#">
                     <img class="rounded-t-lg" src="../assets/img/shisha4.jpg" alt="" />
                 </a>
@@ -85,39 +85,39 @@
                         <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Aamazing Shisha</h5>
                     </a>
                     <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.</p>
-                    <a href="#" class="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
+                    <a href="#" class="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-xl hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
                         Read more
                         <svg aria-hidden="true" class="w-4 h-4 ml-2 -mr-1" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clip-rule="evenodd"></path></svg>
                     </a>
                 </div>
             </div>     
             -->
-            <div data-aos="fade-right" class="max-w-lg bg-white  rounded-lg shadow dark:bg-gray-900 dark:border-gray-700 m-6 ">
+            <div data-aos="fade-right" class="max-w-lg bg-white  rounded-xl shadow dark:bg-gray-900 dark:border-gray-700 m-6 ">
                 <a href="#">
-                    <img class="rounded-t-lg" src="../assets/img/orange_juice.jpg" alt="" />
+                    <img class="rounded-xl hover:-translate-y-1 hover:scale-105 duration-300" src="../assets/img/orange_juice.jpg" alt="" />
                 </a>
                 <div class="p-5">
                     <a href="#">
                         <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Fresh Juice</h5>
                     </a>
                     <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.</p>
-                    <a href="#" class="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
+                    <a href="#" class="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-xl hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
                         Read more
                         <svg aria-hidden="true" class="w-4 h-4 ml-2 -mr-1" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clip-rule="evenodd"></path></svg>
                     </a>
                 </div>
             </div>
             
-            <div data-aos="fade-left" class="max-w-lg bg-white  rounded-lg shadow dark:bg-gray-900 dark:border-gray-700 m-6">
+            <div data-aos="fade-left" class="max-w-lg bg-white  rounded-xl shadow dark:bg-gray-900 dark:border-gray-700 m-6">
                 <a href="#">
-                    <img class="rounded-t-lg" src="../assets/img/fest.jpg" alt="" />
+                    <img class="rounded-xl hover:-translate-y-1 hover:scale-105 duration-300" src="../assets/img/fest.jpg" alt="" />
                 </a>
                 <div class="p-5">
                     <a href="#">
                         <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Delicious Food</h5>
                     </a>
                     <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.</p>
-                    <a href="#" class="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
+                    <a href="#" class="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-xl hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
                         Read more
                         <svg aria-hidden="true" class="w-4 h-4 ml-2 -mr-1" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clip-rule="evenodd"></path></svg>
                     </a>
@@ -128,7 +128,7 @@
 
     <!-- clients -->
             
-    <div class="relative mt-10 m-5 md:mx-56 grid   rounded-lg shadow-sm dark:border-gray-700 md:mb-12 md:grid-cols-2">
+    <div class="relative mt-10 m-5 md:mx-56 grid   rounded-xl shadow-sm dark:border-gray-700 md:mb-12 md:grid-cols-2">
             <figure class="flex flex-col items-center justify-center p-8 text-center bg-white border-b border-yellow-200 rounded-t-lg md:rounded-t-none md:rounded-tl-lg md:border-r dark:bg-gray-900 dark:border-gray-700">
                 <blockquote class="max-w-2xl mx-auto mb-4 text-gray-500 lg:mb-8 dark:text-gray-400">
                     <h3 class="text-lg font-semibold text-gray-900 dark:text-white">Very easy this was to integrate</h3>
