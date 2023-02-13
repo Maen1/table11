@@ -1,13 +1,13 @@
 <template>
     <div>
 
-        <section class="">
+        <section class="md:-mt-5">
 
             <div class="relative overflow-hidden bg-no-repeat bg-cover" style="background-position: 50%; background-image: url('http://localhost:5173/src/assets/img/shisha4.jpg'); height: 600px;"></div>
 
             <div class="container mx-auto px-6 md:px-12 xl:px-32">
             <div class="text-center text-yellow-800">
-                <div class="block rounded-xl shadow-lg px-6 py-12 md:py-16 md:px-12 bg-gray-900" style="margin-top: -170px; backdrop-filter: blur(30px);">
+                <div class="block rounded-xl shadow-lg px-6 py-12 md:py-16 md:px-12 bg-gray-900" style="margin-top: -210px; backdrop-filter: blur(30px);">
                 <h1 class="text-5xl md:text-6xl xl:text-7xl font-bold tracking-tight mb-12">The Best Shisha in Town<br /><span class="text-gray-600">Welcome to Table11</span></h1>
                 <a class="inline-block px-7 py-3 mb-2 md:mb-0 mr-0 md:mr-2 bg-yellow-600 text-gray-200 font-medium text-sm leading-snug uppercase rounded shadow-md hover:bg-yellow-700 hover:shadow-lg focus:bg-yellow-700 focus:shadow-lg focus:outline-none focus:ring-0 active:bg-yellow-800 active:shadow-lg transition duration-150 ease-in-out" data-mdb-ripple="true" data-mdb-ripple-color="light" href="#!" role="button">Reserve your table</a>
                 </div>
@@ -73,7 +73,7 @@
             <div
             data-aos="zoom-in"
             id="carouselExampleCrossfade"
-            class="carousel slide carousel-fade relative"
+            class="carousel slide carousel-fade relative my-5"
             data-bs-ride="carousel"
             data-carousel="dynamic"
             >

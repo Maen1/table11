@@ -7,20 +7,23 @@ import Footer from "./components/Footer.vue";
 <template>
 
         <Nav></Nav>  
-         <div class="stars2"></div>
+        <div class="stars2"></div>
         <div class="stars"></div>
         <div class="stars3"></div>
-        <div class="wrapper">
+        <div class="wrapper relative">
         </div>
+
     <RouterView />
+  
     <Footer></Footer>
+
     
 </template>
 
 <style lang="scss">
     $starFieldWidth: 2560;
     $starFieldHeight: 2560;
-    $starStartOffset: 1000px;
+    $starStartOffset: 10px;
 
     $starOneScrollDuration: 100s;
     $starTwoScrollDuration: 125s;
