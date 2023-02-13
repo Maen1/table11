@@ -15,7 +15,7 @@
             </div>
     </section>
 
-         <div class="mt-10">
+        <div class="mt-10">
             <div class="relative flex justify-center flex flex-wrap mt-10  md:m-10">
                 <div data-aos="fade-right" class="max-w-lg bg-white  rounded-xl shadow dark:bg-gray-900 dark:border-gray-700 m-6 ">
                     <a href="#">
