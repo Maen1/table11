@@ -1,7 +1,7 @@
 <template>
 	<div class="gallery relative">
-		<section class="overflow-hidden text-gray-700">
-			<div class="container px-5 py-2 mx-auto">
+		<section  class="overflow-hidden text-gray-700">
+			<div data-aos="zoom-in" class="container px-5 py-2 mx-auto">
 				<div class="flex flex-wrap -m-1 md:-m-2">
 					<div class="flex flex-wrap w-full md:w-1/2">
 						<div data-aos="fade-right" class="w-full md:w-1/2 p-2 md:p-4">

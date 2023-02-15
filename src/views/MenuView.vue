@@ -1,3 +1,5 @@
+import Footer from "./components/Footer.vue";
+
 <template>
 	<div class="relative menu">
 		<section class="overflow-hidden text-white-700 h-screen">
@@ -11,7 +13,9 @@
 				</div>
 			</div>
 		</section>
+
 	</div>
+
 </template>
 
 <style>

@@ -15,9 +15,7 @@ import Footer from "./components/Footer.vue";
 
     <RouterView />
   
-    <Footer></Footer>
-
-    
+    <Footer></Footer>    
 </template>
 
 <style lang="scss">

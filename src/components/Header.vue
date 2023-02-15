@@ -3,9 +3,9 @@
 
         <section class="md:-mt-5">
 
-            <div class="relative overflow-hidden bg-no-repeat bg-cover" style="background-position: 50%; background-image: url('http://localhost:5173/src/assets/img/shisha4.jpg'); height: 600px;"></div>
+            <div data-aos="fade-up" class="relative overflow-hidden bg-no-repeat bg-cover" style="background-position: 50%; background-image: url('http://localhost:5173/src/assets/img/shisha4.jpg'); height: 600px;"></div>
 
-            <div class="container mx-auto px-6 md:px-12 xl:px-32">
+            <div data-aos="zoom-in" class="container mx-auto px-6 md:px-12 xl:px-32">
             <div class="text-center text-yellow-800">
                 <div class="block rounded-xl shadow-lg px-6 py-12 md:py-16 md:px-12 bg-gray-900" style="margin-top: -210px; backdrop-filter: blur(30px);">
                 <h1 class="text-5xl md:text-6xl xl:text-7xl font-bold tracking-tight mb-12">The Best Shisha in Town<br /><span class="text-gray-600">Welcome to Table11</span></h1>
