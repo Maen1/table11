@@ -4,7 +4,7 @@ import { RouterLink, RouterView } from "vue-router";
 
 
 <template>
-	<div data-aos="zoom-in" >
+	<div data-aos="zoom-in">
 		<footer class="relative mb-0  p-4 bg-white shadow md:flex md:items-center md:justify-between md:p-6 dark:bg-gray-900">
 			<span class="text-sm text-gray-500 sm:text-center dark:text-yellow-200">© {{ new Date().getFullYear() }} Table11.  &ensp; All Rights Reserved.
 			</span>

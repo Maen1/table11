@@ -3,7 +3,9 @@
 
         <section class="md:-mt-5">
 
-            <div data-aos="fade-up" class="relative overflow-hidden bg-no-repeat bg-cover" style="background-position: 50%; background-image: url('http://localhost:5173/src/assets/img/shisha4.jpg'); height: 600px;"></div>
+            <div data-aos="fade-up" class="relative overflow-hidden bg-no-repeat bg-cover">
+            <img class=" h-[600px] w-full" src="../assets/img/shisha4.jpg" alt="shisha">
+            </div>
 
             <div data-aos="zoom-in" class="container mx-auto px-6 md:px-12 xl:px-32">
             <div class="text-center text-yellow-800">

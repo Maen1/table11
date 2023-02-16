@@ -13,6 +13,25 @@ AOS.init({
 
 });
 
+
+import { initializeApp } from "firebase/app";
+import { getAnalytics } from "firebase/analytics";
+
+
+const firebaseConfig = {
+  apiKey: "AIzaSyCxrYU2qaf1UIyR8KGgHz9EUBk5eNSNC9Y",
+  authDomain: "table11-d23c6.firebaseapp.com",
+  projectId: "table11-d23c6",
+  storageBucket: "table11-d23c6.appspot.com",
+  messagingSenderId: "525585382788",
+  appId: "1:525585382788:web:12c4eb025c4cbf32ddb1d1",
+  measurementId: "G-0LWGCC7GQP"
+};
+
+
+const appfb = initializeApp(firebaseConfig);
+const analytics = getAnalytics(appfb);
+
 const app = createApp(App);
 
 app.use(router);
