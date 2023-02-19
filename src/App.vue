@@ -54,10 +54,10 @@ import Footer from "./components/Footer.vue";
 
       //fuction
       @function create-stars($n) {
-        $stars: "#{random($starFieldWidth)}px #{random($starFieldHeight)}px #FDF6B2";
+        $stars: "#{random($starFieldWidth)}px #{random($starFieldHeight)}px #FDFDEA";
 
         @for $i from 2 through $n {
-          $stars: "#{$stars} , #{random($starFieldWidth)}px #{random($starFieldHeight)}px #FDF6B2";
+          $stars: "#{$stars} , #{random($starFieldWidth)}px #{random($starFieldHeight)}px #FDFDEA";
         }
         @return unquote($stars);
       }

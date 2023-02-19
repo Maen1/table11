@@ -1,6 +1,6 @@
 <template>
-    <div class="booking relative m-2 md:m-14">
-        <h1 data-aos="zoom-in" class="text-3xl font-semibold text-center my-8 text-yellow-200">Your welcome to drop by or book a table </h1>
+    <div class="booking relative m-2 md:m-4">
+        <h1 data-aos="zoom-in" class="mx-2 text-3xl font-semibold text-center mb-4 text-yellow-200 bg-blur rounded rounded-xl py-10">Your welcome to drop by or book a table </h1>
         <div class="flex flex-wrap w-full">
          <div data-aos="fade-up" class="w-full md:w-1/3 p-1 md:p-2 items-center">
                 <img alt="shisha" class="object-center md:float-left  max-w-sm rounded-lg md:rounded-xl"
@@ -9,7 +9,9 @@
          <div data-aos="slide-up"  class="w-full md:w-1/3">
                 <p class="text-lg  text-center  text-gray-100 bg-gray-900 p-5 rounded rounded-t-2xl">
                     Table 11 provides an elegant and visual stunning environment and introduces an array of Shisha flavours teamed up with our own uniquely designed smoking pipes to deliver an unforgettable smoke.
-                   
+                </p>
+                <p class="text-lg  text-center   text-yellow-200 bg-gray-900 rounded rounded-t-2xl">
+                 Everyday from 12 to 12
                 </p>
 
             <div class="flex mt-4 space-x-6 sm:justify-center md:mt-0 bg-gray-900 p-5 rounded rounded-b-2xl">

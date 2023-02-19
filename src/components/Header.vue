@@ -151,7 +151,7 @@
 
 
     <!-- clients -->
-            
+<!--             
     <div class="relative grid   rounded-xl shadow-sm dark:border-gray-700 md:mb-12 md:grid-cols-2">
             <figure class="flex flex-col items-center justify-center p-8 text-center bg-white border-b border-yellow-200 rounded-t-lg md:rounded-t-none md:rounded-tl-lg md:border-r dark:bg-gray-900 dark:border-gray-700">
                 <blockquote class="max-w-2xl mx-auto mb-4 text-gray-500 lg:mb-8 dark:text-gray-400">
@@ -205,7 +205,7 @@
                     </div>
                 </figcaption>    
             </figure>
-        </div>
+        </div> -->
 
 
     <!-- end clients -->
