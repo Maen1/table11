@@ -16,7 +16,7 @@ import { RouterLink, RouterView } from "vue-router";
                         </RouterLink>
                 </div>
                 <button
-                class="navbar-toggler text-yellow-200 border-0 hover:shadow-none hover:no-underline py-2 px-2.5 bg-transparent focus:outline-none focus:ring-0 focus:shadow-none focus:no-underline"
+                class="navbar-toggler text-amber-400 border-0 hover:shadow-none hover:no-underline py-2 px-2.5 bg-transparent focus:outline-none focus:ring-0 focus:shadow-none focus:no-underline"
                 type="button"
                 data-bs-toggle="collapse"
                 data-bs-target="#navbarSupportedContent1"
@@ -40,7 +40,7 @@ import { RouterLink, RouterView } from "vue-router";
                     ></path>
                 </svg>
                 </button>
-                <div class="collapse navbar-collapse flex-grow items-center text-yellow-200"  id="navbarSupportedContent1">
+                <div class="collapse navbar-collapse flex-grow items-center text-amber-400"  id="navbarSupportedContent1">
                 
                 <!-- Left links -->
                 <ul class="navbar-nav flex flex-col pl-0 list-style-none mr-auto md:ml-3">

@@ -182,10 +182,10 @@
 					</svg>
 
 				</div>
-				<p class="text-sm md:text-base text-yellow-300 p-2 mb-4">The stuff you were looking for doesn't exist
+				<p class="text-sm md:text-base text-amber-300 p-2 mb-4">The stuff you were looking for doesn't exist
 				</p>
 				<a href="/"
-					class="bg-transparent hover:bg-yellow-300 text-yellow-300 hover:text-white rounded shadow hover:shadow-lg py-2 px-4 border border-yellow-300 hover:border-transparent">
+					class="bg-transparent hover:bg-amber-300 text-amber-300 hover:text-white rounded shadow hover:shadow-lg py-2 px-4 border border-amber-300 hover:border-transparent">
 					Retry</a>
 			</div>
 		</div>
