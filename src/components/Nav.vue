@@ -6,17 +6,17 @@ import { RouterLink, RouterView } from "vue-router";
 <template>
 <div class="sticky top-0  z-50">
      <nav
-            class="relative mb-2 mx-w-full flex flex-wrap items-center justify-between  bg-gray-900 text-gray-200 shadow-lg navbar navbar-expand-lg navbar-light"
+            class="relative mb-2 mx-w-full flex flex-wrap items-center justify-between  bg-slate-800 text-gray-200 shadow-lg navbar navbar-expand-lg navbar-light"
             >
              
             <div class="container-fluid w-full flex flex-wrap items-center justify-between px-6">
                 <div>
                         <RouterLink to="/">
-                        <img class="w-16 m-0" src="../assets/img/table11_logo_png.png" alt="table11 logo">
+                        <img class="w-16 m-0" src="../assets/img/table11_logo_p.png" alt="table11 logo">
                         </RouterLink>
                 </div>
                 <button
-                class="navbar-toggler text-amber-400 border-0 hover:shadow-none hover:no-underline py-2 px-2.5 bg-transparent focus:outline-none focus:ring-0 focus:shadow-none focus:no-underline"
+                class="navbar-toggler text-primary border-0 hover:shadow-none hover:no-underline py-2 px-2.5 bg-transparent focus:outline-none focus:ring-0 focus:shadow-none focus:no-underline"
                 type="button"
                 data-bs-toggle="collapse"
                 data-bs-target="#navbarSupportedContent1"
@@ -40,7 +40,7 @@ import { RouterLink, RouterView } from "vue-router";
                     ></path>
                 </svg>
                 </button>
-                <div class="collapse navbar-collapse flex-grow items-center text-amber-400"  id="navbarSupportedContent1">
+                <div class="collapse navbar-collapse flex-grow items-center text-primary"  id="navbarSupportedContent1">
                 
                 <!-- Left links -->
                 <ul class="navbar-nav flex flex-col pl-0 list-style-none mr-auto md:ml-3">

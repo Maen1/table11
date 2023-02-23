@@ -5,7 +5,15 @@ module.exports = {
     "./src/**/*.{vue,js,ts,jsx,tsx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+    colors: {
+        'primary': '#e2cf11',
+        'secondary': '#e9dcc9',
+        'accent': '#d4e1e9',
+        'pteal': '#037492',
+        'pblue': '#02364c'
+      },
+    },
   },
   plugins: [
      require('tw-elements/dist/plugin')
