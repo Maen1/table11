@@ -5,8 +5,8 @@
 <template>
     <div>
         <section class="md:-mt-5">
-            <div data-aos="fade-up" class="aos-init relative overflow-hidden bg-no-repeat bg-cover">
-                 <img class=" h-[600px] w-full" src="../assets/img/shisha4.jpg" alt="shisha">
+            <div data-aos="fade-up" class="aos-init relative overflow-hidden bg-cover">
+                 <img class=" h-[600px] object-cover w-full" src="../assets/img/shisha4.jpg" alt="shisha">
             </div>
 
             <div data-aos="zoom-in" class="aos-init container mx-auto px-6 md:px-12 xl:px-32">

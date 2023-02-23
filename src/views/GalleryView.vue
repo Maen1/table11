@@ -20,7 +20,7 @@
 					<div class="flex flex-wrap w-full md:w-1/2">
 						<div data-aos="fade-right" class="w-full p-2 md:p-4">
 							<img alt="gallery" class="block object-cover object-center w-full h-full rounded-xl hover:-translate-y-1 hover:scale-105 duration-300"
-							src="../assets/img/shisha_couple.jpg">
+							src="../assets/img/shisha4.jpg">
 						</div>
 						<div data-aos="fade-up" class="w-full md:w-1/2 p-2 md:p-4">
 							<img alt="gallery" class="block object-cover object-center w-full h-full rounded-xl hover:-translate-y-1 hover:scale-105 duration-300"
