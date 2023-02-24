@@ -12,7 +12,7 @@ import { RouterLink, RouterView } from "vue-router";
             <div class="container-fluid w-full flex flex-wrap items-center justify-between px-6">
                 <div>
                         <RouterLink to="/">
-                        <img class="w-16 m-0" src="../assets/img/table11_logo_p.png" alt="table11 logo">
+                        <img class="w-8 m-0 m-2" src="../assets/img/table11_logo_p.png" alt="table11 logo">
                         </RouterLink>
                 </div>
                 <button
