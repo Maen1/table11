@@ -6,7 +6,7 @@ import { RouterLink, RouterView } from "vue-router";
 <template>
 	<div data-aos="zoom-in">
 		<footer class="relative mb-0  p-4 bg-white shadow md:flex md:items-center md:justify-between md:p-6 dark:bg-slate-800">
-			<span class="text-sm text-gray-500 sm:text-center dark:text-primary">© {{ new Date().getFullYear() }} Table11.  &ensp; All Rights Reserved.
+			<span class="text-sm text-gray-500 sm:text-center dark:text-primary">© {{ new Date().getFullYear() }} Table11,&ensp; All Rights Reserved.
 			</span>
 			<div class="flex mt-4 space-x-6 sm:justify-center md:mt-0">
 			 <a href="https://instagram.com/shisha_table11?igshid=YmMyMTA2M2Y=" class="text-primary hover:text-slate-800 dark:hover:text-amber-500">
