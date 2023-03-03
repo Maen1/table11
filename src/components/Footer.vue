@@ -17,7 +17,13 @@ import { RouterLink, RouterView } from "vue-router";
                 <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path fill-rule="evenodd" d="M22 12c0-5.523-4.477-10-10-10S2 6.477 2 12c0 4.991 3.657 9.128 8.438 9.878v-6.987h-2.54V12h2.54V9.797c0-2.506 1.492-3.89 3.777-3.89 1.094 0 2.238.195 2.238.195v2.46h-1.26c-1.243 0-1.63.771-1.63 1.562V12h2.773l-.443 2.89h-2.33v6.988C18.343 21.128 22 16.991 22 12z" clip-rule="evenodd" /></svg>
                 <span class="sr-only">Facebook page</span>
             </a>
-           
+
+			 <a class="text-primary hover:text-slate-800 dark:hover:text-amber-500" href="https://maps.app.goo.gl/?link=https://www.google.com/maps/place/Table%2B11,%2B142-144%2BHigh%2BSt,%2BHounslow%2BTW3%2B1LR/data%3D!4m2!3m1!1s0x48760d3ca8eed589:0x9eed07bd8fb2aecd?utm_source%3Dmstt_1%26entry%3Dgps&apn=com.google.android.apps.maps&afl=https://www.google.com/maps/place/Table%2B11,%2B142-144%2BHigh%2BSt,%2BHounslow%2BTW3%2B1LR/data%3D!4m2!3m1!1s0x48760d3ca8eed589:0x9eed07bd8fb2aecd?utm_source%3Dmstt_1%26entry%3Dgps&ibi=com.google.Maps&ius=comgooglemapsurl&isi=585027354&ifl=https://www.google.com/maps/place/Table%2B11,%2B142-144%2BHigh%2BSt,%2BHounslow%2BTW3%2B1LR/data%3D!4m2!3m1!1s0x48760d3ca8eed589:0x9eed07bd8fb2aecd?utm_source%3Dmstt_1%26entry%3Dgps">
+				<svg class="w-5 h-5" fill="none" stroke="currentColor" stroke-width="1.5" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+					<path stroke-linecap="round" stroke-linejoin="round" d="M15 10.5a3 3 0 11-6 0 3 3 0 016 0z"></path>
+					<path stroke-linecap="round" stroke-linejoin="round" d="M19.5 10.5c0 7.142-7.5 11.25-7.5 11.25S4.5 17.642 4.5 10.5a7.5 7.5 0 1115 0z"></path>
+				</svg>
+			</a>
         </div>
 		</footer>
 
