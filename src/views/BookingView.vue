@@ -7,12 +7,12 @@
                 src="../assets/img/shisha_gaze.jpg">
          </div>
          <div data-aos="slide-up"  class="aos-init w-full md:w-1/3 my-5 md:my-auto ">
-                <div class="text-lg  text-center  text-gray-100 bg-slate-800 p-5 md:mt-2 rounded-lg md:rounded-xl  space-y-4">
+                <div class="text-lg  text-center  text-gray-100 bg-zinc-900 p-5 md:mt-2 rounded-lg md:rounded-xl  space-y-4">
                     <p>
                         Table 11 provides an elegant and visual stunning environment and introduces an array of Shisha flavours teamed up with our own uniquely designed smoking pipes to deliver an unforgettable smoke.
                     </p>
                 
-                    <p class="text-lg font-semibold  text-center mt-4  text-primary bg-slate-800">
+                    <p class="text-lg font-semibold  text-center mt-4  text-primary bg-zinc-900">
                      Open Everyday From 12 To 12
                     </p>
                     <br>
@@ -36,7 +36,7 @@
         </div>
 
         <div class=" flex flex-wrap md:flex-nowrap  justify-between  mt-8">
-            <div data-aos="fade-down" class="aos-init  w-full md:w-1/3 m-2 p-6 bg-white  rounded-lg md:rounded-xl shadow dark:bg-slate-800 dark:border-gray-700">
+            <div data-aos="fade-down" class="aos-init  w-full md:w-1/3 m-2 p-6 bg-white  rounded-lg md:rounded-xl shadow dark:bg-zinc-900 dark:border-gray-700">
                 <div class="flex justify-left">
                     <svg  class="w-10 h-10 mb-2 text-gray-500  dark:text-primary"  fill="none" stroke="currentColor" stroke-width="1.5" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
                     <path stroke-linecap="round" stroke-linejoin="round" d="M10.5 1.5H8.25A2.25 2.25 0 006 3.75v16.5a2.25 2.25 0 002.25 2.25h7.5A2.25 2.25 0 0018 20.25V3.75a2.25 2.25 0 00-2.25-2.25H13.5m-3 0V3h3V1.5m-3 0h3m-3 18.75h3"></path>
@@ -50,7 +50,7 @@
                 </div>
             </div>
 
-            <div data-aos="fade-down" class="aos-init w-full md:w-1/3  p-6 m-2  bg-white  rounded-lg md:rounded-xl shadow dark:bg-slate-800 dark:border-gray-700">
+            <div data-aos="fade-down" class="aos-init w-full md:w-1/3  p-6 m-2  bg-white  rounded-lg md:rounded-xl shadow dark:bg-zinc-900 dark:border-gray-700">
                 <div class="flex justify-left">
 
                     <svg  class="w-10 h-10 mb-2 text-gray-500 dark:text-primary"  fill="none" stroke="currentColor" stroke-width="1.5" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
@@ -62,7 +62,7 @@
                     </a>
                 </div>
             </div>          
-            <div data-aos="fade-down" class="aos-init w-full md:w-1/3  p-6 m-2  bg-white  rounded-lg md:rounded-xl shadow dark:bg-slate-800 dark:border-gray-700">
+            <div data-aos="fade-down" class="aos-init w-full md:w-1/3  p-6 m-2  bg-white  rounded-lg md:rounded-xl shadow dark:bg-zinc-900 dark:border-gray-700">
             <div class="flex justify-left">
                  <svg class="w-10 h-10 mb-2 text-gray-500 dark:text-primary" fill="none" stroke="currentColor" stroke-width="1.5" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
                 <path stroke-linecap="round" stroke-linejoin="round" d="M15 10.5a3 3 0 11-6 0 3 3 0 016 0z"></path>

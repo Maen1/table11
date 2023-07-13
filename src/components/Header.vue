@@ -11,7 +11,7 @@
 
             <div data-aos="zoom-in" class="aos-init container mx-auto px-6 md:px-12 xl:px-32">
             <div class="text-center text-secondary">
-                <div class="block rounded-xl shadow-lg px-6 py-12 md:py-16 md:px-12 bg-slate-800" style="margin-top: -210px; backdrop-filter: blur(30px);">
+                <div class="block rounded-xl shadow-lg px-6 py-12 md:py-16 md:px-12 bg-zinc-900" style="margin-top: -210px; backdrop-filter: blur(30px);">
                 <h1 class="text-5xl md:text-6xl xl:text-7xl font-bold tracking-tight mb-12">The Best Shisha in Town<br /><span class="text-accent text-3xl md:text-4xl xl:text-5xl">Welcome to Table11</span></h1>
                 <p class="inline-block px-7 py-3 mb-2 md:mb-0 mr-0 md:mr-2 bg-primary text-pblue  text-sm font-medium  leading-snug uppercase rounded shadow-md hover:bg-secondary  hover:shadow-lg focus:bg-amber-700 focus:shadow-lg focus:outline-none focus:ring-0 active:bg-amber-800 active:shadow-lg transition duration-150 ease-in-out">
                      <RouterLink to="/booking">Reserve your table</RouterLink>
@@ -23,7 +23,7 @@
 
         <div class="mt-10">
             <div class="relative flex justify-center flex flex-wrap mt-10  md:m-10">
-                <div data-aos="fade-right" class="aos-init max-w-sm md:max-w-lg bg-white  rounded-xl shadow dark:bg-slate-800 dark:border-gray-700 m-6 ">
+                <div data-aos="fade-right" class="aos-init max-w-sm md:max-w-lg bg-white  rounded-xl shadow dark:bg-zinc-900 dark:border-gray-700 m-6 ">
                     <a href="#">
                         <img class="rounded-xl hover:-translate-y-1 hover:scale-105 duration-300" src="../assets/img/orange_juice.jpg" alt="" />
                     </a>
@@ -39,7 +39,7 @@
                     </div>
                 </div>
                 
-                <div data-aos="fade-up" class="aos-init max-w-sm md:max-w-lg bg-white  rounded-xl shadow dark:bg-slate-800 dark:border-gray-700 m-6">
+                <div data-aos="fade-up" class="aos-init max-w-sm md:max-w-lg bg-white  rounded-xl shadow dark:bg-zinc-900 dark:border-gray-700 m-6">
                     <a href="#">
                         <img class="rounded-xl hover:-translate-y-1 hover:scale-105 duration-300" src="../assets/img/fest.jpg" alt="" />
                     </a>
@@ -59,7 +59,7 @@
        
 
     
-    <section class="relative bg-slate-800 mt-4">
+    <section class="relative bg-zinc-900 mt-4">
         <div class="md:flex flex-warp max-w-screen-xl px-4 py-8">
             <div class="place-self-center text-center w-full md:w-1/2">
                 <h1 class="max-w-xl mb-4 text-4xl font-extrabold tracking-tight leading-none md:text-5xl dark:text-secondary">
@@ -135,7 +135,7 @@
     <!-- clients -->
 <!--             
     <div class="relative grid   rounded-xl shadow-sm dark:border-gray-700 md:mb-12 md:grid-cols-2">
-            <figure class="flex flex-col items-center justify-center p-8 text-center bg-white border-b border-primary rounded-t-lg md:rounded-t-none md:rounded-tl-lg md:border-r dark:bg-slate-800 dark:border-gray-700">
+            <figure class="flex flex-col items-center justify-center p-8 text-center bg-white border-b border-primary rounded-t-lg md:rounded-t-none md:rounded-tl-lg md:border-r dark:bg-zinc-900 dark:border-gray-700">
                 <blockquote class="max-w-2xl mx-auto mb-4 text-gray-500 lg:mb-8 dark:text-gray-400">
                     <h3 class="text-lg font-semibold text-slate-800 dark:text-accent">Very easy this was to integrate</h3>
                     <p class="my-4 font-light">If you care for your time, I hands down would go with this."</p>
@@ -148,7 +148,7 @@
                     </div>
                 </figcaption>    
             </figure>
-            <figure class="flex flex-col items-center justify-center p-8 text-center bg-white border-b border-primary rounded-tr-lg dark:bg-slate-800 dark:border-gray-700">
+            <figure class="flex flex-col items-center justify-center p-8 text-center bg-white border-b border-primary rounded-tr-lg dark:bg-zinc-900 dark:border-gray-700">
                 <blockquote class="max-w-2xl mx-auto mb-4 text-gray-500 lg:mb-8 dark:text-gray-400">
                     <h3 class="text-lg font-semibold text-slate-800 dark:text-accent">Solid foundation for any project</h3>
                     <p class="my-4 font-light">Designing with Figma components that can be easily translated to the utility classes of Tailwind CSS is a huge timesaver!"</p>
@@ -161,7 +161,7 @@
                     </div>
                 </figcaption>    
             </figure>
-            <figure class="flex flex-col items-center justify-center p-8 text-center bg-white border-b border-primary rounded-bl-lg md:border-b-0 md:border-r dark:bg-slate-800 dark:border-gray-700">
+            <figure class="flex flex-col items-center justify-center p-8 text-center bg-white border-b border-primary rounded-bl-lg md:border-b-0 md:border-r dark:bg-zinc-900 dark:border-gray-700">
                 <blockquote class="max-w-2xl mx-auto mb-4 text-gray-500 lg:mb-8 dark:text-gray-400">
                     <h3 class="text-lg font-semibold text-slate-800 dark:text-accent">Mindblowing workflow</h3>
                     <p class="my-4 font-light">Aesthetically, the well designed components are beautiful and will undoubtedly level up your next application."</p>
@@ -174,7 +174,7 @@
                     </div>
                 </figcaption>    
             </figure>
-            <figure class="flex flex-col items-center justify-center p-8 text-center bg-white border-primary rounded-b-lg md:rounded-br-lg dark:bg-slate-800 dark:border-gray-700">
+            <figure class="flex flex-col items-center justify-center p-8 text-center bg-white border-primary rounded-b-lg md:rounded-br-lg dark:bg-zinc-900 dark:border-gray-700">
                 <blockquote class="max-w-2xl mx-auto mb-4 text-gray-500 lg:mb-8 dark:text-gray-400">
                     <h3 class="text-lg font-semibold text-slate-800 dark:text-accent">Efficient Collaborating</h3>
                     <p class="my-4 font-light">You have many examples that can be used to create a fast prototype for your team."</p>
