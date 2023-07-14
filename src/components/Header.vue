@@ -5,10 +5,16 @@ import { RouterLink, RouterView } from "vue-router";
 <template>
     <div>
         <section class="md:-mt-5">
-            <div data-aos="fade-up" class="aos-init relative overflow-hidden bg-cover">
-                <img class=" h-[600px] object-cover w-full" src="../assets/img/shisha4.jpg" alt="shisha">
-            </div>
+            <div class="grid place-content-center">
+                <!-- <img class=" h-[600px] object-cover w-full" src="../assets/img/shisha4.jpg" alt="shisha"> -->
+            <!-- <iframe width="100%" height="100%" src="https://www.youtube.com/embed/HtoGa6kgRzM?controls=0" title="نآيف حمدان - يومٌ كـ يوم الجراح" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
+                <div>
+                    <video class="aspect-auto" width="420" height="240" controls autoplay>
+                        <source src="../assets/img/t11pv.mp4" type="video/mp4">
+                    </video>
+                </div>
 
+            </div>
             <div data-aos="zoom-in" class="aos-init container mx-auto px-6 md:px-12 xl:px-32">
                 <div class="text-center text-secondary">
                     <div class="block rounded-xl shadow-lg px-6 py-12 md:py-16 md:px-12 bg-zinc-900" style="margin-top: -210px; backdrop-filter: blur(30px);">
@@ -63,7 +69,7 @@ import { RouterLink, RouterView } from "vue-router";
             <div class="md:flex flex-warp max-w-screen-xl px-4 py-8">
                 <div class="place-self-center text-center w-full md:w-1/2">
                     <h1 class="max-w-xl mb-4 text-4xl font-extrabold tracking-tight leading-none md:text-5xl dark:text-secondary">
-                        Best Shisha ever 
+                        Best Shisha ever
                     </h1>
                     <p class="max-w-2xl mb-6 font-light text-gray-500 lg:mb-8 md:text-lg lg:text-xl dark:text-gray-400">...</p>
 
@@ -73,7 +79,7 @@ import { RouterLink, RouterView } from "vue-router";
                 </div>
                 <div class="reltaive place-self-center text-center  w-full md:w-1/2">
                     <img class="float-right" src="../assets/img/shisha_web.png" alt="shishas">
-                </div>                
+                </div>
             </div>
         </section>
 
@@ -145,7 +151,7 @@ import { RouterLink, RouterView } from "vue-router";
                     <div class="space-y-0.5 font-medium dark:text-accent text-left">
                         <div>Bonnie Green</div>
                     </div>
-                </figcaption>    
+                </figcaption>
             </figure>
             <figure class="flex flex-col items-center justify-center p-8 text-center bg-white border-b border-primary rounded-tr-lg dark:bg-zinc-900 dark:border-gray-700">
                 <blockquote class="max-w-2xl mx-auto mb-4 text-gray-500 lg:mb-8 dark:text-gray-400">
@@ -169,7 +175,7 @@ import { RouterLink, RouterView } from "vue-router";
                     <div class="space-y-0.5 font-medium dark:text-accent text-left">
                         <div>Jese Leos</div>
                     </div>
-                </figcaption>    
+                </figcaption>
             </figure>
             <figure class="flex flex-col items-center justify-center p-8 text-center bg-white border-primary rounded-b-lg md:rounded-br-lg dark:bg-zinc-900 dark:border-gray-700">
                 <blockquote class="max-w-2xl mx-auto mb-4 text-gray-500 lg:mb-8 dark:text-gray-400">
@@ -181,12 +187,9 @@ import { RouterLink, RouterView } from "vue-router";
                     <div class="space-y-0.5 font-medium dark:text-accent text-left">
                         <div>Joseph McFall</div>
                     </div>
-                </figcaption>    
+                </figcaption>
             </figure>
         </div>
-
-
-        <!-- end clients -->
     </div>
 </template>
 
