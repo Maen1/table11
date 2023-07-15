@@ -1,5 +1,6 @@
-import Footer from "./components/Footer.vue";
-import Menu from "./components/Menu.Menu";
+<script setup>
+import Menu from "../components/Menu.vue";
+</script>
 
 <template>
 	<Menu />
