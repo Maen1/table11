@@ -29,8 +29,8 @@ import Gallery from "./Gallery.vue";
             </div>
         </section>
 
-        <div class="mt-10">
-            <div class="relative flex justify-center flex flex-wrap mt-10  md:m-10">
+        <div class="mt-10 px-6 md:px-8 xl:px-24">
+            <div class="relative flex justify-evenly flex flex-wrap mt-10  md:m-10">
                 <div data-aos="fade-right" class="aos-init max-w-sm md:max-w-lg bg-white  rounded-xl shadow dark:bg-zinc-900 dark:border-gray-700 m-6 ">
                     <a href="#">
                         <img class="rounded-xl hover:-translate-y-1 hover:scale-105 duration-300" src="../assets/img/orange_juice.jpg" alt="" />
@@ -53,8 +53,8 @@ import Gallery from "./Gallery.vue";
             </div>
         </div>
 
-        <div class="mb-10">
-            <div class="relative flex justify-center flex flex-wrap mt-10  md:m-10">
+        <div class="mb-10 px-6 md:px-8 xl:px-24">
+            <div class="relative flex justify-evenly flex flex-wrap mt-10  md:m-10">
                 <div data-aos="fade-up" class="aos-init max-w-sm md:max-w-lg bg-white  rounded-xl shadow dark:bg-zinc-900 dark:border-gray-700 m-6 ">
                     <a href="#">
                         <img class="rounded-xl hover:-translate-y-1 hover:scale-105 duration-300" src="../assets/img/orange_juice.jpg" alt="" />
@@ -86,7 +86,7 @@ import Gallery from "./Gallery.vue";
 
         <!-- clients -->
 
-        <div data-aos="zoom-out" class="aos-init relative grid py-3 px-6 md:px-8 xl:px-24  rounded-xl shadow-sm dark:border-gray-700 md:mb-12 md:grid-cols-2">
+        <div data-aos="zoom-out" class="aos-init relative grid py-3 px-6 md:px-12 xl:px-24  rounded-xl shadow-sm dark:border-gray-700 md:mb-12 md:grid-cols-2">
             <figure class="flex flex-col items-center justify-center p-8 text-center bg-white border-b border-primary rounded-t-lg md:rounded-t-none md:rounded-tl-lg md:border-r dark:bg-zinc-900 dark:border-gray-700">
                 <blockquote class="max-w-2xl mx-auto mb-4 text-gray-500 lg:mb-8 dark:text-gray-400">
                     <h3 class="text-lg font-semibold text-slate-800 dark:text-accent">Best Shisha Ever</h3>

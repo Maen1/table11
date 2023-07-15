@@ -1,5 +1,5 @@
 <template>
-	<div class="gallery relative">
+	<div class="gallery relative px-6 md:px-8 xl:px-24">
 		<section  class="overflow-hidden text-gray-700">
 			<div data-aos="zoom-in" class="container px-5 py-2 mx-auto">
 				<div class="flex flex-wrap -m-1 md:-m-2">

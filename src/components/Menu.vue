@@ -2,7 +2,7 @@
 <script setup>
 </script>
 <template>
-	<div class="relative menu md:mb-8">
+	<div class="relative menu md:mb-8 px-6 md:px-8 xl:px-24">
 		<section class="overflow-hidden text-white-700 h-screen grid justify-items-center">
 			<div class="container">
 				<div data-aos="zoom-out" class="grid  justify-items-center">
