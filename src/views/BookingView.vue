@@ -3,14 +3,14 @@ import Contact from '../components/Contact.vue';
 </script>
 
 <template>
-    <div class="booking relative m-2 md:m-4">
+    <div class="booking relative m-2 md:m-4 px-6 md:px-8 xl:px-14">
         <h1 data-aos="zoom-in" class="aos-init mx-2 text-3xl font-semibold text-center mb-4 text-primary bg-blur rounded rounded-xl py-10">Your welcome to drop by or book a table </h1>
-        <div class="flex flex-wrap w-full space-x-0 ">
+        <div class="flex flex-wrap w-full space-x-0 md:px-8">
          <div data-aos="fade-up" class="aos-init w-full md:w-1/3 p-1 md:pr-4 items-center">
                 <img alt="shisha" class="object-center md:float-left w-full  rounded-lg md:rounded-xl"
                 src="../assets/img/shisha_gaze.jpg">
          </div>
-         <div data-aos="slide-up"  class="aos-init w-full md:w-1/3 my-5 md:my-auto ">
+         <div data-aos="slide-up"  class="aos-init w-full md:w-1/3 my-5 md:my-auto">
                 <div class="text-lg  text-center  text-gray-100 bg-zinc-900 p-5 md:mt-2 rounded-lg md:rounded-xl  space-y-4">
                     <p>
                         Table 11 provides an elegant and visual stunning environment and introduces an array of Shisha flavours teamed up with our own uniquely designed smoking pipes to deliver an unforgettable smoke.
@@ -37,8 +37,11 @@ import Contact from '../components/Contact.vue';
                 src="../assets/img/shisha_cake.jpg">
             </div>
         </div>
-        <Contact />
     </div> 
+    <div class="relative">
+
+        <Contact />
+    </div>
 </template>
 
 <style>

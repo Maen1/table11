@@ -1,0 +1,1 @@
+import{_ as s,o as c,c as t,a}from"./index-c193dd5b.js";const e={},i={class:"main-container"},o=a('<div class="sub-container"><div class="sky"><div class="stars"></div><div class="stars2"></div><div class="stars3"></div><div class="comet"></div></div></div>',1),d=[o];function n(r,_){return c(),t("div",i,d)}const l=s(e,[["render",n]]);export{l as default};
