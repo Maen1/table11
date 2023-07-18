@@ -6,12 +6,12 @@ import Gallery from "./Gallery.vue";
 
 <template>
     <div>
-        <section class="md:-mt-5">
-            <div class="grid place-content-center">
+        <section class="-mt-5">
+            <div class="grid place-content-center relative">
                 <!-- <img class=" h-[600px] object-cover w-full" src="../assets/img/shisha4.jpg" alt="shisha"> -->
             <!-- <iframe width="100%" height="100%" src="https://www.youtube.com/embed/HtoGa6kgRzM?controls=0" title="نآيف حمدان - يومٌ كـ يوم الجراح" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
                 <div>
-                    <video id="vid"  width="480" height="240" muted loop autoplay>
+                    <video id="vid"  class="w-full aspect-auto" muted loop autoplay>
                         <source src="../assets/img/t11pv.mp4" type="video/mp4">
                     </video>
                 </div>
