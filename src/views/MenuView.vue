@@ -3,7 +3,9 @@ import Menu from "../components/Menu.vue";
 </script>
 
 <template>
-	<Menu />
+	<div class="container h-screen">
+		<Menu />
+	</div>
 </template>
 
 <style>
