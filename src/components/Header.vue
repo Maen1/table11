@@ -6,20 +6,20 @@ import Gallery from "./Gallery.vue";
 
 <template>
     <div>
-        <section class="-mt-5">
+        <section class="">
             <div class="grid place-content-center relative">
                 <!-- <img class=" h-[600px] object-cover w-full" src="../assets/img/shisha4.jpg" alt="shisha"> -->
             <!-- <iframe width="100%" height="100%" src="https://www.youtube.com/embed/HtoGa6kgRzM?controls=0" title="نآيف حمدان - يومٌ كـ يوم الجراح" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
                 <div>
-                    <video id="vid"  class="w-full aspect-auto" muted loop autoplay>
+                    <video id="vid"  class="w-full aspect-auto rounded-xl" muted loop autoplay>
                         <source src="../assets/img/t11pv.mp4" type="video/mp4">
                     </video>
                 </div>
 
             </div>
-            <div data-aos="zoom-in" class="aos-init container mx-auto px-6 md:px-8 xl:px-24">
+            <div data-aos="zoom-in" class="aos-init container mx-auto px-3 md:px-8 xl:px-24">
                 <div class="text-center text-secondary">
-                    <div class="block rounded-xl shadow-lg px-4 py-8  bg-zinc-900" style="margin-top: -28px; backdrop-filter: blur(30px);">
+                    <div class="block rounded-xl shadow-lg px-4 py-8  bg-zinc-900 mt-2">
                         <h1 class="text-5xl md:text-6xl xl:text-7xl font-bold tracking-tight mb-12"><span class="text-accent text-3xl md:text-4xl xl:text-5xl">Welcome to Table11</span></h1>
                         <p class="inline-block px-7 py-3 mb-2 md:mb-0 mr-0 md:mr-2 bg-primary text-pblue  text-sm font-medium  leading-snug uppercase rounded shadow-md hover:bg-secondary  hover:shadow-lg focus:bg-amber-700 focus:shadow-lg focus:outline-none focus:ring-0 active:bg-amber-800 active:shadow-lg transition duration-150 ease-in-out">
                             <RouterLink to="/booking">Reserve your table</RouterLink>
@@ -30,7 +30,7 @@ import Gallery from "./Gallery.vue";
         </section>
 
         <div class="mt-10 px-6 md:px-8 xl:px-24">
-            <div class="relative flex justify-evenly flex flex-wrap mt-10  md:m-10">
+            <div class="relative flex justify-evenly  flex-wrap mt-10  md:m-10">
                 <div data-aos="fade-right" class="aos-init max-w-sm md:max-w-lg bg-white  rounded-xl shadow dark:bg-zinc-900 dark:border-gray-700 m-6 ">
                     <a href="#">
                         <img class="rounded-xl hover:-translate-y-1 hover:scale-105 duration-300" src="../assets/img/orange_juice.jpg" alt="" />
