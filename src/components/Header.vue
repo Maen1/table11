@@ -40,7 +40,7 @@ import Clients from "./Clients.vue";
 
                 <div data-aos="fade-down" class="aos-init max-w-sm md:max-w-lg bg-white  rounded-xl shadow dark:bg-zinc-900 dark:border-gray-700 m-6 overflow-x-hidden">
                     <a href="#">
-                        <img class="rounded-xl hover:-translate-y-1 hover:scale-105 duration-300" src="../assets/img/fest.jpg" alt="" />
+                        <img class="rounded-xl hover:-translate-y-1 hover:scale-105 duration-300" src="../assets/img/fest.webp" alt="" />
                     </a>
                     <div class="mt-2 p-4 text-center">
                             <h5 class="mb-2 text-2xl font-bold tracking-tight text-slate-800 dark:text-accent">Delicious Food</h5>
@@ -54,7 +54,7 @@ import Clients from "./Clients.vue";
             <div class="relative flex justify-evenly flex flex-wrap mt-10  md:m-10">
                 <div data-aos="fade-down" class="aos-init max-w-sm md:max-w-lg bg-white  rounded-xl shadow dark:bg-zinc-900 dark:border-gray-700 m-6 overflow-x-hidden">
                     <a href="#">
-                        <img class="rounded-xl hover:-translate-y-1 hover:scale-105 duration-300" src="../assets/img/orange_juice.jpg" alt="" />
+                        <img class="rounded-xl hover:-translate-y-1 hover:scale-105 duration-300" src="../assets/img/cake.webp" alt="" />
                     </a>
                     <div class="mt-2 p-4 text-center">
                             <h5 class="mb-2 text-2xl font-bold tracking-tight text-slate-800 dark:text-accent">Great Dessert</h5>
@@ -64,7 +64,7 @@ import Clients from "./Clients.vue";
 
                 <div data-aos="fade-down" class="aos-init max-w-sm md:max-w-lg bg-white  rounded-xl shadow dark:bg-zinc-900 dark:border-gray-700 m-6 overflow-x-hidden">
                     <a href="#">
-                        <img class="rounded-xl hover:-translate-y-1 hover:scale-105 duration-300" src="../assets/img/fest.jpg" alt="" />
+                        <img class="rounded-xl hover:-translate-y-1 hover:scale-105 duration-300" src="../assets/img/selfi.webp" alt="" />
                     </a>
                     <div class="mt-2 p-4 text-center">
                             <h5 class="mb-2 text-2xl font-bold tracking-tight text-slate-800 dark:text-accent">Amazing Shisha</h5>

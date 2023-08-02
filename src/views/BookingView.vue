@@ -34,7 +34,7 @@ import Contact from '../components/Contact.vue';
             </div>
             <div data-aos="fade-up" class="aos-init w-full md:w-1/3 p-1 md:pl-4 items-center">
                 <img alt="shisha" class="object-center md:float-right w-full  rounded-lg md:rounded-xl"
-                src="../assets/img/shisha_cake.jpg">
+                src="../assets/img/cake.webp">
             </div>
         </div>
     </div> 
