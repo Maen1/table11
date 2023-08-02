@@ -78,7 +78,7 @@ import Clients from "./Clients.vue";
         
         <Gallery />
         <!-- clients -->
-        <clients />
+        <!-- <clients /> -->
     </div>
 </template>
 

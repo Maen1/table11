@@ -50,7 +50,7 @@
 	<!-- component -->
 	<div data-aos="zoom-in" class="aos-ini text-gray-600 body-font relative h-64 rounded-3xl px-3 md:px-8 xl:px-24">
 
-		<iframe class="p-3 md:p-3 rounded-2xl  md:rounded-3xl" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2485.393126332781!2d-0.3601846999999999!3d51.4692979!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48760d3ca8eed589%3A0x9ee d07bd8fb2aecd!2sTable%2011!5e0!3m2!1sen!2sse!4v1689243927693!5m2!1sen!2sse" width="100%"
+		<iframe class="p-3 md:p-3 rounded-2xl  md:rounded-3xl"  src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2485.396944961639!2d-0.3604442!3d51.4692278!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48760d3ca8eed589%3A0x9eed07bd8fb2aecd!2sTable%2011!5e0!3m2!1sen!2sse!4v1690984569820!5m2!1sen!2sse" width="100%"
 		  height="100%" style="border:0;" allowfullscreen=" " loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 	</div>
 </template>
