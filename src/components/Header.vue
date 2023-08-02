@@ -9,7 +9,7 @@ import Clients from "./Clients.vue";
         <section class="overflow-x-hidden">
             <div class="grid place-content-center relative overflow-x-hidden">
                 <div>
-                    <video id="vid"  class="w-full aspect-auto rounded-xl" muted loop autoplay>
+                    <video id="vid"  class="w-full aspect-auto  rounded-xl" muted loop autoplay>
                         <source src="../assets/img/t11pv.mp4" type="video/mp4">
                     </video>
                 </div>
