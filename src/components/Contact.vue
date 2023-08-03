@@ -2,7 +2,8 @@
 </script>
 
 <template>
-	<div class=" flex flex-wrap md:flex-nowrap  justify-between  mt-8 px-3 md:px-8 xl:px-24">
+	<section class=" mt-8 px-3 md:px-40"> 
+	<div class=" flex flex-wrap md:flex-nowrap  justify-between  ">
 		<div data-aos="fade-down" class="aos-init  w-full md:w-1/3 m-2 p-6 bg-white  rounded-lg md:rounded-xl shadow dark:bg-zinc-900 dark:border-gray-700">
 			<div class="flex justify-left">
 				<svg  class="w-10 h-10 mb-2 text-gray-500  dark:text-primary"  fill="none" stroke="currentColor" stroke-width="1.5" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
@@ -48,11 +49,12 @@
 		</div>
 	</div>
 	<!-- component -->
-	<div data-aos="zoom-in" class="aos-ini text-gray-600 body-font relative h-64 rounded-3xl px-3 md:px-8 xl:px-24">
+	<div data-aos="zoom-in" class="aos-ini text-gray-600 body-font relative h-64 rounded-3xl ">
 
 		<iframe class="p-3 md:p-3 rounded-2xl  md:rounded-3xl"  src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2485.396944961639!2d-0.3604442!3d51.4692278!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48760d3ca8eed589%3A0x9eed07bd8fb2aecd!2sTable%2011!5e0!3m2!1sen!2sse!4v1690984569820!5m2!1sen!2sse" width="100%"
 		  height="100%" style="border:0;" allowfullscreen=" " loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 	</div>
+	</section>
 </template>
 
 <style scoped>

@@ -1,7 +1,6 @@
 <template>
-	<div class="gallery relative  md:px-8 xl:px-24">
-		<section  class="overflow-hidden text-gray-700">
-			<div data-aos="zoom-in" class="container px-5 py-2 mx-auto">
+		<section  class="overflow-hidden relative  md:m-10 md:px-28 text-gray-700">
+			<div data-aos="zoom-in" class="container px-4 py-2 mx-auto">
 				<div class="flex flex-wrap -m-1 md:-m-2">
 					<div class="flex flex-wrap w-full md:w-1/2">
 						<div data-aos="fade-right" class="w-full p-2 md:p-4">
@@ -30,7 +29,6 @@
 				</div>
 			</div>
 		</section>
-	</div>
 </template>
 
 <style>
