@@ -4,7 +4,7 @@ import Contact from '../components/Contact.vue';
 
 <template>
     <div class="booking relative  md:m-4 px-6 md:px-32">
-        <h1 data-aos="zoom-in" class="aos-init relative px-2 md:mx-8 text-3xl font-semibold text-center mb-4 text-primary bg-zinc-900  rounded-xl py-10">Your welcome to drop by or book a table </h1>
+        <h1 data-aos="zoom-in" class="aos-init relative px-2 md:mx-8 text-3xl font-semibold text-center mb-4 text-primary bg-zinc-900  rounded-xl py-10">You're welcome to drop by or book a table </h1>
         <div class="flex flex-wrap w-full space-x-0 md:px-8">
          <div data-aos="fade-up" class="aos-init w-full md:w-1/3 p-1 md:pr-4 items-center">
                 <img alt="shisha" class="object-center md:float-left w-full  rounded-lg md:rounded-xl"

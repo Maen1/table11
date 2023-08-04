@@ -6,7 +6,7 @@ import { RouterLink, RouterView } from "vue-router";
 <template>
     <div class="sticky top-0  z-50">
         <nav
-            class="relative mb-2 mx-w-full flex flex-wrap items-center justify-between  bg-zinc-900 text-gray-200 shadow-lg navbar navbar-expand-lg navbar-light"
+            class="relative mb-2 mx-w-full flex flex-wrap items-center justify-between  bg-zinc-900 text-gray-200 shadow-lg navbar navbar-expand-lg navbar-light py-3"
             >
 
             <div class="container-fluid w-full flex flex-wrap items-center justify-between px-6">

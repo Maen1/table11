@@ -30,9 +30,7 @@ import Clients from "./Clients.vue";
             <div class="md:px-8 xl:px-24 overflow-x-hidden">
             <div class="relative flex justify-evenly  flex-wrap mt-10  md:m-10">
                 <div data-aos="fade-down" class="aos-init max-w-sm md:max-w-lg bg-white  rounded-xl shadow dark:bg-zinc-900 dark:border-gray-700 m-4 overflow-x-hidden">
-                    <a href="#">
                         <img class="rounded-xl hover:-translate-y-1 hover:scale-105 duration-300" src="../assets/img/orange_juice.jpg" alt="" />
-                    </a>
                     <div class="mt-2 p-4 text-center">
                         <h5 class="mb-2 text-2xl font-bold tracking-tight text-slate-800 dark:text-accent">Fresh Juice</h5>
                         <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">Fresh juice to enjoy your shisha....</p>
@@ -40,9 +38,7 @@ import Clients from "./Clients.vue";
                 </div>
 
                 <div data-aos="fade-down" class="aos-init max-w-sm md:max-w-lg bg-white  rounded-xl shadow dark:bg-zinc-900 dark:border-gray-700 m-4 overflow-x-hidden">
-                    <a href="#">
                         <img class="rounded-xl hover:-translate-y-1 hover:scale-105 duration-300" src="../assets/img/fest.webp" alt="" />
-                    </a>
                     <div class="mt-2 p-4 text-center">
                             <h5 class="mb-2 text-2xl font-bold tracking-tight text-slate-800 dark:text-accent">Delicious Food</h5>
                         <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">Here are the most delicious food....</p>
@@ -54,9 +50,7 @@ import Clients from "./Clients.vue";
         <div class="md:px-8 xl:px-24 overflow-x-hidden">
             <div class="relative flex justify-evenly  flex-wrap   md:mx-10">
                 <div data-aos="fade-down" class="aos-init max-w-sm md:max-w-lg bg-white  rounded-xl shadow dark:bg-zinc-900 dark:border-gray-700 m-4 overflow-x-hidden">
-                    <a href="#">
                         <img class="rounded-xl hover:-translate-y-1 hover:scale-105 duration-300" src="../assets/img/cake.webp" alt="" />
-                    </a>
                     <div class="mt-2 p-4 text-center">
                             <h5 class="mb-2 text-2xl font-bold tracking-tight text-slate-800 dark:text-accent">Great Dessert</h5>
                         <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">Desserts made just for you....</p>
@@ -64,9 +58,7 @@ import Clients from "./Clients.vue";
                 </div>
 
                 <div data-aos="fade-down" class="aos-init max-w-sm md:max-w-lg bg-white  rounded-xl shadow dark:bg-zinc-900 dark:border-gray-700 m-4 overflow-x-hidden">
-                    <a href="#">
                         <img class="rounded-xl hover:-translate-y-1 hover:scale-105 duration-300" src="../assets/img/selfi.webp" alt="" />
-                    </a>
                     <div class="mt-2 p-4 text-center">
                             <h5 class="mb-2 text-2xl font-bold tracking-tight text-slate-800 dark:text-accent">Amazing Shisha</h5>
                         <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">Shisha with various falvours....</p>
