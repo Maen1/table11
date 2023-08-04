@@ -11,7 +11,7 @@ import Contact from '../components/Contact.vue';
                 src="../assets/img/shisha_gaze.jpg">
          </div>
          <div data-aos="slide-up"  class="aos-init w-full md:w-1/3 my-5 md:my-auto">
-                <div class="text-lg  text-center  text-gray-100 bg-zinc-900 p-5 md:mt-2 rounded-lg md:rounded-xl  space-y-4">
+                <div class="text-lg  text-center  text-gray-300 bg-zinc-900 p-5 md:mt-2 rounded-lg md:rounded-xl  space-y-4">
                     <p>
                         Table 11 provides an elegant and visual stunning environment and introduces an array of Shisha flavours teamed up with our own uniquely designed smoking pipes to deliver an unforgettable smoke.
                     </p>

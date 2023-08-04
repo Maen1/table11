@@ -11,9 +11,9 @@
 				</svg>
 				<div>
 					<h5 class="m-2 text-xl font-semibold text-primary">Phone  </h5>
-					<a  href="tel:02085700164" class="text-gray-200 ml-8">02085700164</a> 
+					<a  href="tel:02085700164" class="text-gray-300 ml-8">02085700164</a> 
 					<br/>
-					<a  href="tel:07771819555" class="text-gray-200 ml-8 mt-4">07771819555</a>
+					<a  href="tel:07771819555" class="text-gray-300 ml-8 mt-4">07771819555</a>
 				</div>
 			</div>
 		</div>
@@ -26,7 +26,7 @@
 				</svg>
 				<a href="mailto:shisha.table11@gmail.com">
 					<h5 class="m-2 text-xl font-semibold text-primary">Email </h5>
-					<p class="text-gray-200 ml-8">shisha.table11@gmail.com</p>
+					<p class="text-gray-300 ml-8">shisha.table11@gmail.com</p>
 				</a>
 			</div>
 		</div>          
@@ -39,7 +39,7 @@
 				<a href="https://maps.app.goo.gl/?link=https://www.google.com/maps/place/Table%2B11,%2B142-144%2BHigh%2BSt,%2BHounslow%2BTW3%2B1LR/data%3D!4m2!3m1!1s0x48760d3ca8eed589:0x9eed07bd8fb2aecd?utm_source%3Dmstt_1%26entry%3Dgps&apn=com.google.android.apps.maps&afl=https://www.google.com/maps/place/Table%2B11,%2B142-144%2BHigh%2BSt,%2BHounslow%2BTW3%2B1LR/data%3D!4m2!3m1!1s0x48760d3ca8eed589:0x9eed07bd8fb2aecd?utm_source%3Dmstt_1%26entry%3Dgps&ibi=com.google.Maps&ius=comgooglemapsurl&isi=585027354&ifl=https://www.google.com/maps/place/Table%2B11,%2B142-144%2BHigh%2BSt,%2BHounslow%2BTW3%2B1LR/data%3D!4m2!3m1!1s0x48760d3ca8eed589:0x9eed07bd8fb2aecd?utm_source%3Dmstt_1%26entry%3Dgps">
 					<h5 class="m-2 text-xl font-semibold text-primary">Location </h5>
 
-					<p class="text-gray-200 ml-8">
+					<p class="text-gray-300 ml-8">
 						42-144 Hounslow High Street, Hounslow, London, UK 
 						<br>
 						TW3 1LR
