@@ -1,6 +1,6 @@
 <template>
 
-	<div data-aos="zoom-out" class="aos-init relative grid py-3 px-6 md:px-12 xl:px-24  rounded-xl shadow-sm dark:border-gray-700 md:mb-12 md:grid-cols-2">
+	<div class="aos-init relative grid py-3 px-6 md:px-12 xl:px-24  rounded-xl shadow-sm dark:border-gray-700 md:mb-12 md:grid-cols-2">
 		<figure class="flex flex-col items-center justify-center p-8 text-center bg-white border-b border-primary rounded-t-lg md:rounded-t-none md:rounded-tl-lg md:border-r dark:bg-zinc-900 dark:border-gray-700">
 			<blockquote class="max-w-2xl mx-auto mb-4 text-gray-500 lg:mb-8 dark:text-gray-400">
 				<h3 class="text-lg font-semibold text-slate-800 dark:text-accent">Best Shisha Ever</h3>
